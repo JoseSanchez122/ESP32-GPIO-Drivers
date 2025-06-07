@@ -11,3 +11,6 @@ This repository contains code for a room temperature controller and an occupancy
 
 ## Hardware 
 - ESP32
+
+![image](https://github.com/user-attachments/assets/9b300608-6786-49ee-a51e-89b61ddc0799)
+
